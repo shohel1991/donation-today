@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+
+}
+.header{
+    height: 600px;
+    background:aqua;
+    background-image: url(/donate-today-main/images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.header-title{
+    font-weight: 800;
+    font-size: 45px;
+    text-align: center;
+    color: blueviolet;
+    padding:30px 60px;
+}
+.title-description{
+
+    text-align: center;
+    padding: 200px 200px 200px 200px;
+    color: blueviolet;
+
+}
+.btn-donet{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.btn-primary{
+    color: antiquewhite;
+    background: #FD6E0A;
+    font-weight: 700;
+    padding: 36px 40px;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+}
+.btn-decoration{
+    list-style: none;
+    display: flex;
+    padding: 60px;
+    justify-content: space-around;
+}
+.btn-title{
+    background: aqua;
+    font-weight: 700;
+    font-size: 48px;
+    height: 100px;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+.don-to{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    color: blue;
+    padding-top: 40px;
+    text-decoration: underline rosybrown;
+}
+.description{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
