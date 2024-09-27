@@ -66,3 +66,23 @@
     padding-left: 240px;
     padding-right: 240px;
 }
+.Other-title{
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+
+}
+.donate-now{
+    font-weight: 400;
+    font-size: 50px;
+    margin: 10px;
+    padding: 30px 30px;
+    background: #FD6E0A;
+    border-radius: 0;
+    text-align: center;
+}
+.new-title{
+    list-style: none;
+    text-align: center;
+    text-decoration: overline greenyellow;
+}
